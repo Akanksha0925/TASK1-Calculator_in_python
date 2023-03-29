@@ -1,2 +1,3 @@
 # TASK1-Calculator_in_python
  
+This Python program is a simple calculator that allows users to input mathematical expressions to be evaluated. The program starts by displaying a welcome message and then enters into an infinite loop, prompting the user to enter a mathematical expression. If the user enters "quit," the program will exit. If the expression is valid, the program uses the built-in "eval()" function to evaluate it and return the result. If the result is an integer, it is displayed as is. If it's a float, it's displayed with 3 decimal points. If the input is invalid, the program will prompt the user to try again. This program is a good example of how to use loops, input/output, and exception handling in Python.
